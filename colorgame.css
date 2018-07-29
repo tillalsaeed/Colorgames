@@ -1,7 +1,25 @@
 /*Color Game*/
 
+/*font-family: 'Sigmar One', cursive;
+font-family: 'Indie Flower', cursive;
+*/
 body{
 	/*background : #232323 !important; */
+}
+
+
+h4{
+font-family: 'Kanit' !important;
+
+		font-size: 32px !important;
+
+}
+
+h1{
+			font-family: 'Sigmar One' !important;
+
+	font-size:40px !important;
+
 }
 
 .square{
