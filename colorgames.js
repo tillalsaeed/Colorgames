@@ -68,9 +68,10 @@ square.forEach(function(click){
     winner.textContent = "You Have Selected the Corret Color";
 
     winner.style.color = "#fff";
-    wrap.style.color = "#fff";
 
     wrap.style.backgroundColor = "rgb("+colors[randomArray]+")";
+    wrap.style.backgroundImage = "none";
+
 
     square.forEach(function(index){
 
